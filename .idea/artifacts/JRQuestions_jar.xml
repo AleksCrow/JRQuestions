@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JRQuestions:jar">
+    <output-path>$USER_HOME$/Desktop/artifacts/JRQuestions_jar</output-path>
+    <root id="archive" name="JRQuestions.jar">
+      <element id="module-output" name="javatheoryquestions" />
+    </root>
+  </artifact>
+</component>
